@@ -1,0 +1,3 @@
+/home/anthony/code/proj/nato/build/CMakeFiles/nato.dir
+/home/anthony/code/proj/nato/build/CMakeFiles/edit_cache.dir
+/home/anthony/code/proj/nato/build/CMakeFiles/rebuild_cache.dir

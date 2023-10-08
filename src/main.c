@@ -14,11 +14,11 @@ int main(int argc, char *argv[])
         exit(EUSAGE);
     }
 
-    if (strcmp(argv[1], "--to") == 0)
+    if (strcmp(argv[1], "-t") == 0 || strcmp(argv[1], "--to") == 0)
     {
         to_nato(&argv[2], argc - 2);
     }
-    else if (strcmp(argv[1], "--from") == 0)
+    else if (strcmp(argv[1], "-f") == 0 || strcmp(argv[1], "--from") == 0)
     {
         from_nato(&argv[2], argc - 2);
     }

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/nato.dir/src/main.c.o -o nato 
